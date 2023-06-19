@@ -8,6 +8,9 @@
 
 阅读前沿论文，分享技术创新
 
+## 在线阅读地址
+在线阅读地址：https://datawhalechina.github.io/whale-paper
+
 ## 报名流程
 
 报名论文分享的小伙伴可以按照以下流程申请：
