@@ -38,6 +38,12 @@ B站视频链接：https://space.bilibili.com/431850986/channel/seriesdetail?sid
 
 （持续更新中）
 
+## 致谢
+
+**核心贡献者**
+
+[芙蕖-项目负责人](https://github.com/chenlian-zhou) （Datawhale成员）
+
 ## 关注我们
 <div align=center>
 <p>扫描下方二维码关注公众号：Datawhale</p>
