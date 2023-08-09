@@ -1,4 +1,5 @@
 * [目录](README.md)
-    * 自然语言处理（NLP）
-    * 计算机视觉（CV）
-    * 推荐算法（Res）
+    * [自然语言处理（NLP）](NLP.md)
+    * [计算机视觉（CV）](CV.md)
+    * [推荐算法（Res）](Res.md)
+    + [向量检索（Vec）](Vec.md)
