@@ -65,15 +65,17 @@ ErnieLayout是跨模态文档大模型，其目的是提取文档中无结构或
 
   + 文本侧的输出层使用一个PointerNetwork来完成下一个词位置的预测
 
-  + ![reading order prediction](images/ch04-reading order prediction.png)
+  ![reading order prediction](images/ch04-reading order prediction.png)
 
 + 替换区域预测
 
   + 随机选择10%的图块，并用另一张图像中的图块替换，预测哪些图块是被替换的
 
-  + ![replaced region prediction](images/ch04-replaced region prediction.png)
+
+  ![replaced region prediction](images/ch04-replaced region prediction.png)
 
 + 多模态掩码预测
   + 和普通的MLM一样，mask掉一些token，并预测被mask的token。不同之处在于不mask掉layout信息
+
 + 涂抹文本预测
   + 随机挑选一行text并cover住其对应的图片位置，预测token对应的图片是否被cover
