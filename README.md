@@ -42,7 +42,7 @@ B站视频链接：https://space.bilibili.com/431850986/channel/seriesdetail?sid
 
 **核心贡献者**
 
-[芙蕖-项目负责人]([https://github.com/chenlian-zhou](https://github.com/P-hyllis)) （Datawhale成员）
+[芙蕖-项目负责人]((https://github.com/P-hyllis)) （Datawhale成员）
 
 ## 关注我们
 <div align=center>
